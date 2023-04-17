@@ -7,4 +7,4 @@ Windows Live = Movie Maker files
 
 scripts_win = Debugging scripts for winDGB
 
-script_ghirda = Scripts for ghirda
+scripts_ghirda = Scripts for ghirda
